@@ -1,0 +1,16 @@
+{
+  "name": "google-cloud-icons-adjustment-for-slack-emoji-registration",
+  "version": "1.0.0",
+  "description": "Just normalize names and move files to one place.",
+  "main": "main.mjs",
+  "repository": "https://github.com/google-cloud-icons-adjustment-for-slack-emoji-registration",
+  "author": "TAKAHASHI Shuuji",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "./main.mjs"
+  },
+  "dependencies": {
+    "zx": "^4.2.0"
+  }
+}
