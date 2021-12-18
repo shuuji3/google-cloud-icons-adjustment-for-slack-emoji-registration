@@ -3,6 +3,8 @@ A zx script simply normalizing names of Google Cloud icon deck and moving them t
 
 ## Usage
 
+[Fauntleroy/neutral-face-emoji-tools](https://github.com/Fauntleroy/neutral-face-emoji-tools) is very helpful to register many emoji to Slack quickly.
+
 ### With zx without yarn
 
 After installing [`zx`](https://github.com/google/zx) command,
