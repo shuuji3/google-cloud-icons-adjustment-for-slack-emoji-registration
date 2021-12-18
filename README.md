@@ -3,12 +3,23 @@ A zx script simply normalizing names of Google Cloud icon deck and moving them t
 
 ## Usage
 
+### With zx without yarn
+
+After installing [`zx`](https://github.com/google/zx) command,
+
+```shell
+zx main.mjs
+```
+
+### With yarn
+
 ```shell
 yarn install
 yarn start
 ```
 
-This will do the following:
+## What this script does
+
 - Download the latest icons zip file from https://cloud.google.com/icons/.
 - Extract only png files and put them in one place.
 - Rename them by putting the prefix (`google-cloud`) and replacing `_` with `-` (like `cloud_run.png` -> `google-cloud-clound-run.png`).
