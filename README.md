@@ -21,7 +21,7 @@ yarn start
 ## What this script does
 
 - Download the latest icons zip file from https://cloud.google.com/icons/.
-- Extract only png files and put them in one place.
+- Extract only png files and put them in one place at `emoji/` directory.
 - Rename them by putting the prefix (`google-cloud`) and replacing `_` with `-` (like `cloud_run.png` -> `google-cloud-clound-run.png`).
 - That's it!
 
