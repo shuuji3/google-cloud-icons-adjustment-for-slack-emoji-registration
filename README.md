@@ -24,7 +24,7 @@ yarn start
 
 - Download the latest icons zip file from https://cloud.google.com/icons/.
 - Extract only png files and put them in one place at `emoji/` directory.
-- Rename them by putting the prefix (`google-cloud-`) and replacing `_` with `-` (like `cloud_run.png` -> `google-cloud-clound-run.png`).
+- Rename them by putting the prefix (`google-cloud-`) and replacing `_` with `-` (like `cloud_run.png` -> `google-cloud-cloud-run.png`).
 - That's it!
 
 ## Development
