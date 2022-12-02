@@ -1,5 +1,9 @@
 # google-cloud-icons-adjustment-for-slack-emoji-registration
+
 A zx script simply normalizing names of Google Cloud icon deck and moving them to one place for the registration as Slack (or other chat application) emoji.
+
+<img width="360" alt="Slack emoji panel" src="https://user-images.githubusercontent.com/1425259/205347332-6a9190ce-aba3-4a33-9573-a3c6e4bfb296.png">
+
 
 ## Usage
 
